@@ -5,7 +5,7 @@
 </title>
 
 </head>
-<body background-color="#781010">
+<body color="#781010">
 
 <center>
 <img src="./CS151/images/computer.png">
