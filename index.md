@@ -6,7 +6,7 @@
 
 </head>
 <body color="#781010">
-
+<link rel="stylesheet" href="Style.css">
 <center>
 <img src="./CS151/images/computer.png">
 <br>
