@@ -5,9 +5,6 @@
 </title>
 
 </head>
-<!--
-<body bgcolor="#781010">
--->
 <body bgcolor="#781010">
 
 <center>
