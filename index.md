@@ -10,7 +10,6 @@
 -->
 <body bgcolor="#781010">
 
-
 <center>
 <img src="./CS151/images/computer.png">
 <br>
@@ -23,7 +22,6 @@
 </table>
 </center>
 </font>
-
 
 <font size="3" color="#FFFFFF" face="verdana">
 
